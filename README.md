@@ -203,11 +203,8 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-## Designed by :
->[Cindy Shin from behance ](https://www.behance.net/adagio07) <br>
-
-## Developed By: 
-> [`Ahmed Hasan Rony`](https://www.linkedin.com/in/ahroniy)
+## Designed and Developed By: 
+> [`Sanskar Soni`](https://www.linkedin.com/in/sanskar-soni-394189229/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
